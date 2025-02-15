@@ -36,8 +36,6 @@ If you are seeing this ensure step 0 is completed and the game is running.
 
 If the tracker and SNI still don't talk try refreshing the page and possibly closing and reopening SNI.
 
-If you still are getting this error ask for help on the discord #trackers channel, I promise we don't bite
-
 ## Unsuccessful Connection - SNI and Console/Emulator
 
  You will see the following if SNI is connected to the tracker, but there is a connection issue between SNI and your console or emulator: 
