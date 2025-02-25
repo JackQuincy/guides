@@ -1,6 +1,8 @@
 # FF6WC Gated Tracker Setup
 The following guide must be complete in its entirety for the tracker to work: 
 
+### For Mac OS see [This Guide](./FF6WC_AutoTracking_macOS.pdf)
+
 ### [Setup SNI](./sni.md)
 <br>
 <br>
