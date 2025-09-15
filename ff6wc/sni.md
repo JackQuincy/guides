@@ -27,3 +27,17 @@
     - If it is not connected it will be empty
         - ![sni devices](https://i.imgur.com/Gy4u4Ei.png)
 - Clicking "Refresh" is necessary when checking for the latest state
+
+
+## Multi-computer Streaming Setup w/ Retroarch
+
+1. Download and install SNI on both the gaming machine and stream machine.
+2. Run SNI on the machine running the emulator
+3. On the streaming machine, you will need to set an environment variable.
+   - 3a. Windows
+         - Powershell
+             - $env:SNI_RETROARC_HOSTS = <ip address of gaming machine here>
+4. Run SNI on the streaming machine.
+5. Run Retroarch
+6. Open WC Rom w/ Correct Core (bsnes-mercury-balanced for me on Retroarch 1.21)
+7. Verify connections as above
